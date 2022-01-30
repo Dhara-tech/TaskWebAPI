@@ -23,6 +23,10 @@ EditTask- to edit existing task (single/multiple)
 
 DeleteTask- to delete existing task (single/multiple)
 
+GetAllTaskFromDB - to get list of all task from DB
+
+CreateTaskInDB - to create new task in DB (single/multiple)
+
 
 **TaskController.cs**
 
@@ -37,3 +41,7 @@ api/task/createtask- to create new task (single/multiple)
 api/task/edittask- to edit existing task (single/multiple)
 
 api/task/deletetask- to delete existing task (single/multiple)
+
+api/task/getalltaskfromdb - to get list of all task from DB
+
+api/task/createtaskindb - to create new task in DB (single/multiple) 
